@@ -1,0 +1,18 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü˜ŠÜ
+o
+java:S1450C"YRemove the "connection" field and declare it as a local variable in the relevant methods.(ÿ›ÅÒ
+{
+java:S1450D"`Remove the "preparedStatement" field and declare it as a local variable in the relevant methods.(¿ä Óþÿÿÿÿ
+‡
+java:S1130F"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ï¾´˜ýÿÿÿÿ
+M
+java:S1172F"2Remove this unused method parameter "actionEvent".(ï¾´˜ýÿÿÿÿ
+W
+java:S6353w"<Use concise character class syntax '\\d' instead of '[0-9]'.(âíÃ¦úÿÿÿÿ
+W
+java:S6353{"<Use concise character class syntax '\\d' instead of '[0-9]'.(Úñ¡äúÿÿÿÿ
+I
+java:S1172¡"2Remove this unused method parameter "actionEvent".(Â…è´
+N
+java:S1172¸"2Remove this unused method parameter "actionEvent".(íÑööýÿÿÿÿ

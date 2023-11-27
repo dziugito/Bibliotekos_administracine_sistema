@@ -1,0 +1,19 @@
+
+J
+java:S3740!"/Provide the parametrized type for this generic.(Î„Ùáùÿÿÿÿ
+>
+java:S1604q"(Make this anonymous inner class a lambda(ñØ¤‡
+V	java:S110u"<This class has 9 parents which is greater than 5 authorized.(½îá¥ÿÿÿÿÿ
+w
+java:S1488u"\Immediately return this expression instead of assigning it to the temporary variable "cell".(½îá¥ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü˜ŠÜ
+o
+java:S1450;"YRemove the "connection" field and declare it as a local variable in the relevant methods.(ÿ›ÅÒ
+s
+java:S1450<"XRemove the "statement" field and declare it as a local variable in the relevant methods.(„£„÷øÿÿÿÿ
+t
+java:S1171w"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+S
+java:S1117x"8Rename "data" which hides the field declared at line 57.(Û¼ì¦øÿÿÿÿ
+N
+java:S1172¬"2Remove this unused method parameter "actionEvent".(–òÜúÿÿÿÿ

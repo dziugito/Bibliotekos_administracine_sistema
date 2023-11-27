@@ -1,0 +1,41 @@
+
+z
+java:S1192O"_Define a constant instead of duplicating this literal "SELECT LAST_INSERT_ID() as id;" 4 times.(ƒËÑÝÿÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ý†ÿÓ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€¦¿™
+e
+java:S2095l"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ëËÈë
+k
+java:S2095‹"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(§Ì«¾øÿÿÿÿ
+k
+java:S2095Ó"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ï‰Ó°øÿÿÿÿ
+f
+java:S2095à"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘ÿòò
+j
+java:S20957"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ðúÿÿÿÿ
+k
+java:S2095³"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ï‰Ó°øÿÿÿÿ
+k
+java:S2095€"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ðúÿÿÿÿ
+k
+java:S2095ò"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(â…ÍÆÿÿÿÿÿ
+j
+java:S2095a"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ðúÿÿÿÿ
+j
+java:S2095&"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ðúÿÿÿÿ
+e
+java:S2095P"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ëËÈë
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ðúÿÿÿÿ
+j
+java:S2095G"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ðúÿÿÿÿ
+f
+java:S2095Á"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‘ÿòò
+k
+java:S2095“"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ðúÿÿÿÿ
+k
+java:S2095¥"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ðúÿÿÿÿ
+S	java:S107®"=Method has 10 parameters, which is greater than 7 authorized.(í¿Óñ
+W	java:S107Î"<Method has 9 parameters, which is greater than 7 authorized.(ëé’úÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ý†ÿÓ

@@ -1,0 +1,19 @@
+
+J
+java:S37406"/Provide the parametrized type for this generic.(Âë Áüÿÿÿÿ
+k	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝŒËâÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€¦¿™
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôÝžÕýÿÿÿÿ
+^
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ª´åž
+c
+java:S4488("HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ô´Æïÿÿÿÿÿ
+i
+java:S44883"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(âÜ…Øÿÿÿÿÿ
+e
+java:S4488@"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¹¬áøûÿÿÿÿ
+^
+java:S4488N"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(’¦†é
+^
+java:S4488]"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(À“ÅÊ

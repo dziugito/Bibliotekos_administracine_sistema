@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="450.0" style="-fx-background-color: #add8e6#add8e6 #add8e6#add8e6;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.laboras1.fxControllers.CreateBookFormController">
+    <top>
+        <AnchorPane prefHeight="46.0" prefWidth="400.0" style="-fx-background-color: #ade6d8#ade6d8 #ade6d8#ade6d8;" BorderPane.alignment="CENTER">
+            <children>
+                <Text layoutX="176.0" layoutY="31.0" strokeType="OUTSIDE" strokeWidth="0.0" text="New book">
+               <font>
+                  <Font name="Cochin" size="24.0" />
+               </font></Text>
+            </children>
+        </AnchorPane>
+    </top>
+    <center>
+        <AnchorPane prefHeight="418.0" prefWidth="400.0" BorderPane.alignment="CENTER">
+            <children>
+                <TextField fx:id="nameField" layoutX="127.0" layoutY="25.0" prefWidth="170.0" />
+                <TextField fx:id="authorField" layoutX="127.0" layoutY="60.0" prefWidth="170.0" />
+                <TextField fx:id="pagesField" layoutX="127.0" layoutY="200.0" prefWidth="170.0" />
+                <Text layoutX="25.0" layoutY="43.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Book name">
+               <font>
+                  <Font name="Cochin" size="14.0" />
+               </font></Text>
+                <Text layoutX="25.0" layoutY="78.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Book Author">
+               <font>
+                  <Font name="Cochin" size="14.0" />
+               </font></Text>
+                <Text layoutX="28.0" layoutY="113.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Section">
+               <font>
+                  <Font name="Cochin" size="14.0" />
+               </font></Text>
+                <Text layoutX="25.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Release date">
+               <font>
+                  <Font name="Cochin" size="14.0" />
+               </font></Text>
+                <Text layoutX="25.0" layoutY="219.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Number of pages">
+               <font>
+                  <Font name="Cochin" size="14.0" />
+               </font></Text>
+                <Button fx:id="createButton" layoutX="330.0" layoutY="86.0" mnemonicParsing="false" onAction="#createBook" prefHeight="35.0" prefWidth="100.0" style="-fx-border-color: #000000#000000; -fx-background-color: #ade6d8#ade6d8 #ade6d8#ade6d8;" text="Create">
+               <font>
+                  <Font name="Cochin" size="14.0" />
+               </font></Button>
+                <Button fx:id="goBackButton" layoutX="330.0" layoutY="134.0" mnemonicParsing="false" onAction="#goBack" prefHeight="35.0" prefWidth="100.0" style="-fx-border-color: #000000#000000; -fx-background-color: #ade6d8#ade6d8 #ade6d8#ade6d8;" text="Go back">
+               <font>
+                  <Font name="Cochin" size="14.0" />
+               </font></Button>
+                <ListView fx:id="bookList" layoutX="28.0" layoutY="291.0" prefHeight="149.0" prefWidth="401.0" />
+                <Text layoutX="28.0" layoutY="282.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Created books">
+               <font>
+                  <Font name="Cochin" size="14.0" />
+               </font></Text>
+            <DatePicker fx:id="releasePicker" layoutX="127.0" layoutY="165.0" prefHeight="26.0" prefWidth="170.0" />
+            <ComboBox fx:id="sectionComboBox" layoutX="127.0" layoutY="95.0" prefHeight="26.0" prefWidth="170.0" />
+            <ComboBox fx:id="subSectionComboBox" layoutX="127.0" layoutY="130.0" prefWidth="170.0" />
+            <Text layoutX="28.0" layoutY="148.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Sub-Section">
+               <font>
+                  <Font name="Cochin" size="14.0" />
+               </font>
+            </Text>
+            </children>
+        </AnchorPane>
+    </center>
+</BorderPane>

@@ -1,0 +1,24 @@
+
+E
+java:S3740)"/Provide the parametrized type for this generic.(‚ÿ®
+C
+java:S1604F"(Make this anonymous inner class a lambda(Ù˜İ®ÿÿÿÿÿ
+P	java:S110J"<This class has 9 parents which is greater than 5 authorized.(şÍÁ
+q
+java:S1488J"\Immediately return this expression instead of assigning it to the temporary variable "cell".(şÍÁ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü˜ŠÜ
+o
+java:S14505"YRemove the "connection" field and declare it as a local variable in the relevant methods.(ÿ›ÅÒ
+s
+java:S14506"XRemove the "statement" field and declare it as a local variable in the relevant methods.(„£„÷øÿÿÿÿ
+t
+java:S1171M"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N
+java:S1117O"8Rename "data" which hides the field declared at line 51.(‡Š±³
+V	java:S125~"<This block of commented-out lines of code should be removed.(‰Ğ†Äşÿÿÿÿ
+I
+java:S1172…"2Remove this unused method parameter "actionEvent".(¦—Ëä
+]
+java:S1128"GRemove this unused import 'com.example.laboras1.dataStructure.Section'.(¼ñ³®
+_
+java:S1128"JRemove this unused import 'com.example.laboras1.dataStructure.SubSection'.(éê×0

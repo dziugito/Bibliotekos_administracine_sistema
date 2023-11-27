@@ -1,0 +1,24 @@
+
+E
+java:S37408"/Provide the parametrized type for this generic.(š§àº
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€¦¿™
+c
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÊŸ”êıÿÿÿÿ
+^
+java:S4488+"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ù¥à†
+i
+java:S44885"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(Ã½çüûÿÿÿÿ
+`
+java:S4488B"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(²‹Ğö
+c
+java:S4488R"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(èù¨Æıÿÿÿÿ
+e
+java:S4488b"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ô€ã—şÿÿÿÿ
+`
+java:S4488n"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(©¯¶•
+_
+java:S1128"DRemove this unused import 'com.example.laboras1.dataStructure.Book'.(€Æ‘ùÿÿÿÿ
+\
+java:S1128"FRemove this unused import 'com.example.laboras1.dataStructure.Person'.(¤˜«
+H
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ

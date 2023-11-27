@@ -1,0 +1,32 @@
+
+u
+java:S1192X"_Define a constant instead of duplicating this literal "Choose section from the table!" 5 times.(‰ğ³´
+s
+java:S1104?"XMake goBackButton a static final constant or non-public and provide accessors if needed.(¬üúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü˜ŠÜ
+k
+java:S2095»"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ
+f
+java:S2095Ü"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(µá
+k
+java:S2095¡"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¶…Ó„üÿÿÿÿ
+o
+java:S1450A"YRemove the "connection" field and declare it as a local variable in the relevant methods.(ÿ›ÅÒ
+H
+java:S1172I"2Remove this unused method parameter "actionEvent".(ÅÕæ
+H
+java:S1172V"2Remove this unused method parameter "actionEvent".(ç‰€Ş
+H
+java:S1172c"2Remove this unused method parameter "actionEvent".(ş»¶§
+H
+java:S1172p"2Remove this unused method parameter "actionEvent".(ü”¸í
+I
+java:S1172€"2Remove this unused method parameter "actionEvent".(íÇ‰
+N
+java:S1172"2Remove this unused method parameter "actionEvent".(«ôì¢ùÿÿÿÿ
+M
+java:S1172ä"1Remove this unused method parameter "mouseEvent".(Ö³Ç—úÿÿÿÿ
+M
+java:S1172í"1Remove this unused method parameter "mouseEvent".(Ñïèıÿÿÿÿ
+I
+java:S1172õ"2Remove this unused method parameter "actionEvent".(¦—Ëä
